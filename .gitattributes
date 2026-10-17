@@ -1,0 +1,2 @@
+# 统一脚本为文本，Windows 下保持 CRLF，避免跨平台换行被误判
+*.cs text eol=crlf
