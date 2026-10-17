@@ -14,7 +14,7 @@
 
 以今天的工程标准衡量，**架构与项目管理都不够成熟**——`Character.cs` 与 `PlayerController` 双轨并存、部分关卡未进 Build Settings、注释与 TODO 仍可见。我选择在 README 里 **如实说明**，而不是事后包装成从零就是最佳实践。**回过头看，这段试错仍然不可或缺**：第一次把物理手感、内容导演和 deadline 绑在一起交付。
 
-实机演示：[B 站 BV1versBhEiY](https://www.bilibili.com/video/BV1versBhEiY)
+实机演示：[B站](https://www.bilibili.com/video/BV1versBhEiY)
 
 ## 技术栈
 
